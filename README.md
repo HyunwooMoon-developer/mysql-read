@@ -137,7 +137,8 @@
 - utf8mb4_general_ci : 정렬속도 빠름
 
 ## MYSQL TABLE
-
+|    테이블          |          의미                 |
+| :-----------------|-------------------------------| 
 |  CREATE TABLE     |      테이블 만들기             |
 |  ALTER TABLE      |      테이블 변경               |
 |  DELETE TABLE     |      테이블 제거               |
